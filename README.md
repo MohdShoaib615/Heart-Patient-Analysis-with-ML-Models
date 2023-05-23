@@ -2,6 +2,7 @@
 In this repository, we are analyzing the heart patients, and determining whether he is suffering from heart disease or not.
 
 For this, we have compared the performance of different models:-
+
 Mode-1--> AdaBoostClassifier
 
 Mdoel-2--> RandomForestClassifier
